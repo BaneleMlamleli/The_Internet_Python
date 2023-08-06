@@ -19,9 +19,9 @@
     .. image:: https://pepy.tech/badge/The_Internet_Python/month
         :alt: Monthly Downloads
         :target: https://pepy.tech/project/The_Internet_Python
-    .. image:: https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Twitter
-        :alt: Twitter
-        :target: https://twitter.com/The_Internet_Python
+.. image:: https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Twitter
+    :alt: Twitter
+    :target: https://twitter.com/The_Internet_Python
 
 .. image:: https://img.shields.io/badge/-PyScaffold-005CA0?logo=pyscaffold
     :alt: Project generated with PyScaffold
@@ -34,10 +34,11 @@ The_Internet_Python
 ===================
 
 
-    Add a short description here!
+    I don't like Python...
 
 
-A longer description of your project goes here...
+- Automating testing different elements of website using Python
+- Test website: https://the-internet.kineticskunk.co.za/
 
 
 .. _pyscaffold-notes:
