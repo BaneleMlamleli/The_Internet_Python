@@ -7,7 +7,6 @@ name = "pypi"
 webdriver-manager = "*"
 behave = "*"
 toolium = "*"
-blender = "*"
 pyhamcrest = "*"
 
 [dev-packages]
