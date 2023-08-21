@@ -34,12 +34,11 @@ The_Internet_Python
 ===================
 
 
-    This project Full automates a full regression testing of a website using Python with the following tool
+    This project automates a full regression test of a website using Python with the following tool
     
     - Python
     - Toolium
         - Selenium
-    - webdriver-manager
     - PyScaffold: 
     - Behave
     - PyHamcrest
