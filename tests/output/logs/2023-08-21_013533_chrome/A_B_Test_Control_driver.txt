@@ -1,0 +1,4 @@
+
+2023-08-21 01:35:45.624994 'A_B_Test_Control' test logs with driver = chrome
+
+2023-08-21 01:35:34.920000	WARNING	This version of ChromeDriver has not been tested with Chrome version 116.
